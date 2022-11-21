@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- .
+- .
+- 
 
 <a href = "https://api.gitofolio.com/portfolio/2452/2456"><img src = "https://api.gitofolio.com/portfoliocard/svg/2456?color=white" style="width:353px; height:auto; "/></a>
 
